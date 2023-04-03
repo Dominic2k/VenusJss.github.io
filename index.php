@@ -68,6 +68,7 @@
 	</div>
 	<footer>
 		Created by Pham Duc Dat - <a href="mailto:pddat2602@gmail.com">pddat2602@gmail.com</a>
+		© 2022-<?php echo date("Y");?>
 	</footer>
 </body>
 </html>
