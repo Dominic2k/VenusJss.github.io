@@ -41,6 +41,9 @@ nav a:hover{
 	background-color: #DDD;
 	color: black;
 }
+nav a:active{
+	color hsl(187, 85%, 54%):
+}
 #left_side{
 	flex: 40%;
 	padding: 10px 20px;
