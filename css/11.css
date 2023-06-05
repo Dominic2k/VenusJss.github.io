@@ -9,7 +9,6 @@
 	/*Căn giữa chữ*/
 	padding: 30px;
 	margin: 0;
-	position: fixed;
 }
 
 nav{
@@ -40,9 +39,6 @@ nav a:hover{
 /*hover là hiểu hơ hơ con chuột lên 1 cái nút*/
 	background-color: #DDD;
 	color: black;
-}
-nav a:active{
-	color hsl(187, 85%, 54%):
 }
 #left_side{
 	flex: 40%;
