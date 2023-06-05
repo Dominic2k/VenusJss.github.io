@@ -9,12 +9,12 @@
 	/*Căn giữa chữ*/
 	padding: 30px;
 	margin: 0;
+	position: fixed;
 }
 
 nav{
 	background-color: #333;
 	overflow: hidden;
-	position: fixed;
 /*	Ẩn phần thừa ra ngoài padding*/
 }
 
