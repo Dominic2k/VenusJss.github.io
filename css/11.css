@@ -9,6 +9,7 @@
 	/*Căn giữa chữ*/
 	padding: 30px;
 	margin: 0;
+	position: fixed;
 }
 
 nav{
