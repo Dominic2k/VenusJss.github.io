@@ -1,2 +1,2 @@
-var name  = "Welcome to PhamDucDat profile";
-alert(name);
+var noti  = "Only embedded HTML";
+alert(noti);
